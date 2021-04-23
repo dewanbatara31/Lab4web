@@ -1,4 +1,4 @@
-![bb](https://user-images.githubusercontent.com/56387936/115882293-d44f6000-a476-11eb-85f2-e8280650812d.JPG)
+
 # Lab4web
 
 Nama : Dewan Batara Subarjah 
@@ -165,3 +165,10 @@ Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, mess
 
 berikut source codenya :
 
+![bb](https://user-images.githubusercontent.com/56387936/115882509-019c0e00-a477-11eb-91ec-03611405ce5d.JPG)
+
+![cc](https://user-images.githubusercontent.com/56387936/115882565-111b5700-a477-11eb-86fe-010b779ddee3.JPG)
+
+Kemudian lihat hasilnya di web browser
+
+![aa](https://user-images.githubusercontent.com/56387936/115882668-2d1ef880-a477-11eb-8f07-af121a85433e.JPG)
