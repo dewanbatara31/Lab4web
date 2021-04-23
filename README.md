@@ -152,3 +152,15 @@ Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, p
 
 Berikut adalah source codenya :
 
+![32](https://user-images.githubusercontent.com/56387936/115879587-06ab8e00-a474-11eb-8065-a86d31cbd1b7.JPG)
+
+![33](https://user-images.githubusercontent.com/56387936/115879608-0d3a0580-a474-11eb-9b5b-5ffb4ec5782d.JPG)
+
+Kemudian lihat hasilnya di web browser
+
+![31](https://user-images.githubusercontent.com/56387936/115879674-22af2f80-a474-11eb-9295-c4a50b45291e.JPG)
+
+Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+
+berikut source codenya :
+
